@@ -1,6 +1,6 @@
 "# django-ecommerce-project-amazon-clone" 
 ## Installation from gitHub
-<p>git clone https://github.com/thomasmiller108120/Django-E-commerce.git</p>
+<p>git clone https://github.com/grandfar/Django-E-commerce.git</p>
 ## Er Diagram of Project
 <img src="screenshots/er_diagram.png" style="width:100%" alt="Er Diagram"/>
 
